@@ -11,4 +11,4 @@ Este proyecto consume una web API creada con .NET 8
 3. **Clonar el repositorio web api**:
    Configurar el Appsettings con tu conexion a sqlserver
    ```bash
-   https://github.com/crisomarjs/fullstack-net-react/tree/main/appcrud
+   https://github.com/crisomarjs/WebAPICrud
